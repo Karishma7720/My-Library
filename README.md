@@ -1,3 +1,4 @@
+![Screenshot (6)](https://user-images.githubusercontent.com/108576677/196047524-1622287f-e7a7-4723-aabd-bebf29f021cc.png)
 # Book Library
 A React App to help you manage your Book Library; By dividing your books into `Currently Reading`, `Want To Read`, `Read` or `None` if you didn't decide yet!
 
