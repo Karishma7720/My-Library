@@ -6,7 +6,8 @@ set - up instructions:
 
 cd Book-Library
 npm install
-npm start Your browser will open A Live Version of your Book Library!
+npm start
+Your browser will open A Live Version of your Book Library!
 
 If you are using yarn, you can use yarn install and yarn start instead of using npm!
 
